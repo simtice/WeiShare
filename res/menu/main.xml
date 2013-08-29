@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/forward"
+        android:icon="@drawable/forward"
+        android:showAsAction="ifRoom"
+        android:title="@string/forward"/>
+    <item
+        android:id="@+id/share_photo"
+        android:icon="@drawable/share_photo"
+        android:showAsAction="ifRoom"
+        android:title="@string/share_photo"/>
+    <item
+        android:id="@+id/share_text"
+        android:icon="@drawable/share_dark"
+        android:showAsAction="ifRoom"
+        android:title="@string/share_text"/>
+    
+</menu>

@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/camera"
+        android:icon="@drawable/camera_dark"
+        android:showAsAction="ifRoom"
+        android:title="@string/camera"/>
+    
+</menu>
